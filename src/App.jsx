@@ -112,8 +112,8 @@ const App = () => {
         <div className="max-w-4xl mx-auto flex justify-between items-center">
           <div className="flex items-center gap-2">
             <Wrench size={24} />
-            <h1 className="text-xl font-bold tracking-tight md:block hidden">泰山高中機器手臂日誌</h1>
-            <h1 className="text-xl font-bold tracking-tight md:hidden block">泰山機器人</h1>
+            <h1 className="text-xl font-bold tracking-tight md:block hidden">泰山高中機器手臂日誌歷程系統</h1>
+            <h1 className="text-xl font-bold tracking-tight md:hidden block">泰山機器人系統整合</h1>
           </div>
           <div className="flex gap-4">
             <button 
@@ -260,3 +260,4 @@ const App = () => {
 };
 
 export default App;
+
